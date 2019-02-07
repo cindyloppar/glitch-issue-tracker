@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 15px;
+}
+
+.issue {
+  margin: 25px;
+  padding: 10px;
+  width: 65%;
+  border: 4px solid black;
+}
+
+.closed {
+  background-color: lightgrey;
+}
+
+.id {
+  font-size: 15.5px;
+}
